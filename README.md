@@ -139,8 +139,8 @@ Project Link: [metranome](https://admiring-montalcini-965c0b.netlify.app/)
 
   ## About
 
-  [● See Website ●]()  
-  *(Inspired by [app name]())*
+  [● See Website ●](https://admiring-montalcini-965c0b.netlify.app/)  
+  *(Inspired by [app name](https://github.com/00-joe-js/metronome))*
 
 </div>
 
