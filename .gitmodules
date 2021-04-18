@@ -1,0 +1,3 @@
+[submodule "metronome"]
+	path = metronome
+	url = https://github.com/00-joe-js/metronome.git
