@@ -6,11 +6,11 @@
 
 
 
-# DESCRIPTION 
+#  ➤ DESCRIPTION 
 
 This is a web-based metronome intended to help musicians practice.
 
-# PLANNED FEATURES 
+#  ➤ PLANNED FEATURES 
 
 </div>
 
