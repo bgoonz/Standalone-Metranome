@@ -10,7 +10,7 @@
 
 This is a web-based metronome intended to help musicians practice.
 
-# FEATURES 
+# PLANNED FEATURES 
 
 </div>
 
