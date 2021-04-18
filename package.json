@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Bryan Guner",
+  "license": "MIT",
   "dependencies": {
     "http-server": "^0.12.3"
   }
