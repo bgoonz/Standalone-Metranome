@@ -135,15 +135,15 @@ function draw() {
 }
 
 function init(){
-    const container = document.createElement( 'div' );
+    const wrapper = document.createElement( 'div' );
 
-    container.className = "container";
+    wrapper.className = "wrapper";
     canvas = document.createElement( 'canvas' );
     canvasContext = canvas.getContext( '2d' );
     canvas.width = window.innerWidth; 
     canvas.height = window.innerHeight; 
-    document.body.appendChild( container );
-    container.appendChild(canvas);    
+    document.body.appendChild( wrapper );
+    wrapper.appendChild(canvas);    
     canvasContext.strokeStyle = "#ffffff";
     canvasContext.lineWidth = 2;
 
