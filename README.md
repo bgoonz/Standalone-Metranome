@@ -38,7 +38,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/bgoonz/ask-me-anything/issues/new)
 
-Project Link: [https://github.com/bgoonz/web-dev-notes-resource-site](https://github.com/bgoonz/web-dev-notes-resource-site)
+Project Link: [metranome](https://admiring-montalcini-965c0b.netlify.app/)
 
 <!-- ACKNOWLEDGEMENTS -->
 
