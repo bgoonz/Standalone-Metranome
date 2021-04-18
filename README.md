@@ -12,6 +12,8 @@ This is a web-based metronome intended to help musicians practice.
 
 # FEATURES 
 
+</div>
+
 * tempo can be any positive integer
 * beats per minute can be any number of integers delimited by "+" for beat grouping & subdivision
 * buttons for convenient tempo manipulation
@@ -30,7 +32,7 @@ This is a web-based metronome intended to help musicians practice.
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
-
+<div align="center">
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#contact)
 
@@ -66,4 +68,5 @@ Project Link: [metranome](https://admiring-montalcini-965c0b.netlify.app/)
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/bgoonz
 
+</div>
 </div>
