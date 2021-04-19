@@ -28,6 +28,124 @@ This is a web-based metronome intended to help musicians practice.
 * built-in help reference
 
 
+
+```
+tree -L 4
+.
+├── Cowbell-1.wav
+├── README.md
+├── UU0PoDIx7v.gif
+├── _config.yml
+├── alt-implementation-number3
+│   ├── index.css
+│   ├── index.html
+│   └── index.js
+├── backup
+│   ├── README.md
+│   ├── css
+│   │   └── metronome.css
+│   ├── favicon.png
+│   ├── index.html
+│   ├── jasmine
+│   │   ├── SpecRunner.html
+│   │   ├── lib
+│   │   │   └── jasmine-2.3.4
+│   │   ├── spec
+│   │   │   ├── MetronomeSpec.js
+│   │   │   ├── PlayerSpec.js
+│   │   │   └── SpecHelper.js
+│   │   └── src
+│   │       ├── Player.js
+│   │       └── Song.js
+│   ├── js
+│   │   ├── metronome.js
+│   │   ├── mousetrap-global-bind.min.js
+│   │   └── mousetrap.min.js
+│   └── manifest.appcache
+├── index.html
+├── js
+│   ├── Mp3LameEncoder.min.js.mem
+│   ├── OggVorbisEncoder.min.js.mem
+│   ├── WebAudioRecorder.min.js
+│   ├── WebAudioRecorderMp3.min.js
+│   ├── WebAudioRecorderOgg.min.js
+│   ├── WebAudioRecorderWav.min.js
+│   ├── app.js
+│   └── right.html
+├── metronome
+│   ├── README.md
+│   ├── drumsticks.wav
+│   ├── index.html
+│   ├── index.js
+│   ├── style.css
+│   ├── theplan.txt
+│   └── tick-class.js
+├── my-implementation
+│   ├── README.md
+│   ├── css
+│   │   └── main.css
+│   ├── index.html
+│   └── js
+│       ├── metronome.js
+│       ├── metronomeworker.js
+│       └── monkeypatch.js
+├── notes
+│   ├── event-emmiters.html
+│   ├── notes.md
+│   └── webaudioAPI.md
+├── notes.md
+├── pZv0Pm9Qji.gif
+├── package-lock.json
+├── package.json
+├── recorder
+│   ├── README.md
+│   ├── index.html
+│   ├── js
+│   │   ├── Mp3LameEncoder.min.js.mem
+│   │   ├── OggVorbisEncoder.min.js.mem
+│   │   ├── WebAudioRecorder.min.js
+│   │   ├── WebAudioRecorderMp3.min.js
+│   │   ├── WebAudioRecorderOgg.min.js
+│   │   ├── WebAudioRecorderWav.min.js
+│   │   ├── app.js
+│   │   └── right.html
+│   └── style.css
+├── renovate.json
+├── resources
+│   └── webaudio-examples-master
+│       └── webaudio-examples-master
+│           ├── README.md
+│           ├── audio-analyser
+│           ├── audio-basics
+│           ├── audio-buffer
+│           ├── audio-param
+│           ├── audiocontext-states
+│           ├── compressor-example
+│           ├── create-media-stream-destination
+│           ├── decode-audio-data
+│           ├── iirfilter-node
+│           ├── media-source-buffer
+│           ├── multi-track
+│           ├── offline-audio-context
+│           ├── offline-audio-context-promise
+│           ├── output-timestamp
+│           ├── panner-node
+│           ├── script-processor-node
+│           ├── spacialization
+│           ├── step-sequencer
+│           ├── stereo-panner-node
+│           └── stream-source-buffer
+├── sounds
+│   ├── sounds_high-beep.wav
+│   └── sounds_low-beep.wav
+└── style.css
+
+41 directories, 66 files
+
+
+
+```
+
 ## ➤ License
 
 Distributed under the MIT License. See `LICENSE` for more information.
